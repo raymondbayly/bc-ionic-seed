@@ -1,7 +1,0 @@
-{
-  "name": "ionic-seed",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
